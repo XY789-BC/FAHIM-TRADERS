@@ -1,0 +1,6 @@
+{
+  "name": "Fahim Traders - Structural Welding & Steel Fabrication",
+  "description": "Premium structural welding, main gates, solar panel mounting structures, and complete home construction iron and steel materials by Fahim Traders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
